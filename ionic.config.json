@@ -1,6 +1,6 @@
 {
   "name": "invalideparkeerkaart",
-  "app_id": "",
+  "app_id": "4d4f403b",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
